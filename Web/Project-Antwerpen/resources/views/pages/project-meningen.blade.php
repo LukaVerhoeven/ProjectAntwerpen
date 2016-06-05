@@ -26,8 +26,8 @@
 @endif
 <hr>
 	<div class="col-md-10 col-md-offset-1">
-		<h1 id="applicationtitle">Deze meningen werden verzameld met onze applicatie: <br>
-		"De slimste mens van Antwerpen".</h1>
+		<h4 id="applicationtitle">Deze meningen werden verzameld met onze applicatie: <br>
+		"De slimste mens van Antwerpen".</h4  >
 		<div id="downloadbox">
 			<h3>Download hier voor android of ios</h3>
 			<img src="/img/iphone-app-icon.png" class="downloadlogo">
